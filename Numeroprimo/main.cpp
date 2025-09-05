@@ -22,10 +22,12 @@ int main()
     *Implemente un programa que solicite un numero por teclado
     * e imprima los numeros primos menores que dicho numero.
     */
-    int n, i=2;
-    cout << "Ingresar"
-    cin >> n;
-      while(i < n)
+    /**
+    *TODO
+    */
+
+
+
 
 
     return 0;
